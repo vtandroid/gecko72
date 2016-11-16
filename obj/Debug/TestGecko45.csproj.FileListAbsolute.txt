@@ -1,0 +1,16 @@
+D:\Projet_Csharp\TestGecko45\TestGecko45\bin\Debug\TestGecko45.exe
+D:\Projet_Csharp\TestGecko45\TestGecko45\bin\Debug\TestGecko45.pdb
+D:\Projet_Csharp\TestGecko45\TestGecko45\bin\Debug\Geckofx-Core.dll
+D:\Projet_Csharp\TestGecko45\TestGecko45\bin\Debug\Geckofx-Winforms.dll
+D:\Projet_Csharp\TestGecko45\TestGecko45\bin\Debug\Geckofx-Core.pdb
+D:\Projet_Csharp\TestGecko45\TestGecko45\bin\Debug\Geckofx-Winforms.pdb
+D:\Projet_Csharp\TestGecko45\TestGecko45\obj\Debug\TestGecko45.Form1.resources
+D:\Projet_Csharp\TestGecko45\TestGecko45\obj\Debug\TestGecko45.Properties.Resources.resources
+D:\Projet_Csharp\TestGecko45\TestGecko45\obj\Debug\TestGecko45.csproj.GenerateResource.Cache
+D:\Projet_Csharp\TestGecko45\TestGecko45\obj\Debug\TestGecko45.exe
+D:\Projet_Csharp\TestGecko45\TestGecko45\obj\Debug\TestGecko45.pdb
+D:\Projet_Csharp\TestGecko45\TestGecko45\obj\Debug\Interop.AutoItX3Lib.dll
+D:\Projet_Csharp\TestGecko45\TestGecko45\obj\Debug\TestGecko45.csproj.ResolveComReference.cache
+D:\Projet_Csharp\TestGecko45\TestGecko45\bin\Debug\AutoItX3.Assembly.dll
+D:\Projet_Csharp\TestGecko45\TestGecko45\bin\Debug\AutoItX3.PowerShell.dll
+D:\Projet_Csharp\TestGecko45\TestGecko45\bin\Debug\AutoItX3.Assembly.xml
